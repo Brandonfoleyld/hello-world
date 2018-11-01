@@ -1,4 +1,13 @@
-# hello-world
-my first repo
-hi, my name is brandon, i need to learn how to use this
-i have just written some text
+<html>
+  <head>
+    <h1>
+     git hub example
+    </h1>
+  </head>
+  <body>
+    <p>
+      stuff, lots of stuff
+    </p>
+  </body>
+  
+  </html>
